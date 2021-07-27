@@ -216,96 +216,96 @@ const trial_info = {
     group_identifiers: [
       [
         {
-          question: 'Ich identifiziere mich als Tempolimit-Befürworter',
+          question: 'Ich identifiziere mich als Tempolimit-Befürworter.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         },
         {
-          question: 'Ich identifiziere mich als Tempolimit-Gegner',
+          question: 'Ich identifiziere mich als Tempolimit-Gegner.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         }
       ],
       [
         {
-          question: 'Ich identifiziere mich als Digitalisierungs-Befürworter',
+          question: 'Ich identifiziere mich als Digitalisierungs-Befürworter.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         },
         {
-          question: 'Ich identifiziere mich als Digitalisierungs-Gegner',
+          question: 'Ich identifiziere mich als Digitalisierungs-Gegner.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         }
       ],
       [
         {
-          question: 'Ich identifiziere mich als Befürworter der Gender-Debatte',
+          question: 'Ich identifiziere mich als Befürworter des Genderns.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         },
         {
-          question: 'Ich identifiziere mich als Gegnern der Gender-Debatte',
+          question: 'Ich identifiziere mich als Gegnern des Genderns.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         }
       ],
       [
         {
-          question: 'Ich identifiziere mich als Vermögenssteuer-Befürworter',
+          question: 'Ich identifiziere mich als Vermögenssteuer-Befürworter.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         },
         {
-          question: 'Ich identifiziere mich als Vermögenssteuer-Gegner',
+          question: 'Ich identifiziere mich als Vermögenssteuer-Gegner.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         }
       ],
       [
         {
-          question: 'Ich identifiziere mich als Impfpflicht-Befürworter',
+          question: 'Ich identifiziere mich als Impfpflicht-Befürworter.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         },
         {
-          question: 'Ich identifiziere mich als Impflicht-Gegner',
+          question: 'Ich identifiziere mich als Impflicht-Gegner.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         }
       ],
       [
         {
-          question: 'Ich identifiziere mich als Migrations-Befürworter',
+          question: 'Ich identifiziere mich als Migrations-Befürworter.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         },
         {
-          question: 'Ich identifiziere mich als Migrations-Gegner',
+          question: 'Ich identifiziere mich als Migrations-Gegner.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         }
       ],
       [
         {
-          question: 'Ich identifiziere mich als Cannabis-Legalisierung-Befürworter',
+          question: 'Ich identifiziere mich als Befürworter einer Cannabislegalisierung.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         },
         {
-          question: 'Ich identifiziere mich als Cannabis-Legalisierung-Gegner',
+          question: 'Ich identifiziere mich als Gegner einer Cannabislegalisierung.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         }
       ],
       [
         {
-          question: 'Ich identifiziere mich als Befürworter des Mindestpreises von Fleisch',
+          question: 'Ich identifiziere mich als Befürworter eines Mindestpreises für Fleisch.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         },
         {
-          question: 'Ich identifiziere mich als Gegner des Mindestpreises von Fleisch',
+          question: 'Ich identifiziere mich als Gegner eines Mindestpreises für Fleisch.',
           option1: 'Korrekt',
           option2: 'Inkorrekt'
         }
