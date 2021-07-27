@@ -34,7 +34,7 @@ $("document").ready(function() {
             // "debug" and "directLink"
             // As well as "MTurk", "MTurkSandbox" and "Prolific"
             deployMethod: "directLink",
-            contact_email: "jmorisse@uni-osnabrueck.de",
+            contact_email: "jmorisse@uni-osnabrueck.de"
             //prolificURL: "https://app.prolific.ac/submissions/complete?cc=SAMPLE1234"
         },
         // Here, you can specify how the progress bar should look like
